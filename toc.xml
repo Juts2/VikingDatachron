@@ -1,4 +1,4 @@
-<Addon Name="VikingDatachron" Version="0.1" Author="Vikinghug" APIVersion="8" Description="">
+<Addon Name="VikingDatachron" Version="0.1" Author="VikinghugUI" APIVersion="8" Description="Replaces Datachron">
     <Script Name="VikingDatachron.lua"/>
     <Form Name="VikingDatachron.xml"/>
     <ReplaceAddon Name="Datachron"/>
